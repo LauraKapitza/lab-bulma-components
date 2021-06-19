@@ -30,7 +30,6 @@ const buttonClasses = {
 }
 
 const coolButton = props => {
-    console.log('probs', props);
     const classArr = []
     Object.keys(props).map(key => {
         if (key != "children") {

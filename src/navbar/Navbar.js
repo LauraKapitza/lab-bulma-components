@@ -1,6 +1,6 @@
-import React from 'react';
-import CoolButton from '../coolbutton/coolbutton.js';
 import 'bulma/css/bulma.css';
+import CoolButton from '../coolbutton/Coolbutton.js';
+import React from 'react';
 
 const Navbar = () => {
     return (
